@@ -8,7 +8,7 @@
 ## 💻 Activities
 [![knight7024's github stats](https://github-readme-stats.vercel.app/api?username=knight7024&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![knight7024's baekjoon stats](http://mazassumnida.wtf/api/generate_badge?boj=knight7024)](https://solved.ac/knight7024)
+[![knight7024's baekjoon stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=knight7024)](https://solved.ac/knight7024)
 
 ## 📬 Contact
 [![GMAIL](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knight7024@gmail.com)](mailto:knight7024@gmail.com)
