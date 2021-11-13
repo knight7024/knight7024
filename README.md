@@ -4,7 +4,6 @@
 * 정종우 (JongWoo Jeong) / 1997.11.06
 * [KOREATECH (한국기술교육대학교)](https://www.koreatech.ac.kr) 17학번 컴퓨터공학과
 * 교내 동아리 [BCSD](https://bcsdlab.com/) Back-End Developer (2019.04 ~ )
-* 육군 복무 (2020.05.04 ~ 2021.11.08)
 
 ## 🗨 Blog
 - [네이버](https://blog.naver.com/knight7024)
