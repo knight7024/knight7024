@@ -15,7 +15,8 @@
 [![knight7024's baekjoon stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=knight7024)](https://solved.ac/knight7024)
 
 ## ⌨️ Tech Stack
-![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![SPRING](https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white) ![JENKINS](https://img.shields.io/badge/Jenkins-d24939?style=flat-square&logo=Jenkins&logoColor=white) ![REDIS](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=Redis&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white) ![SWAGGER](https://img.shields.io/badge/Swagger-85ea2d?style=flat-square&logo=Swagger&logoColor=black)
+![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![SPRING](https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white) ![JENKINS](https://img.shields.io/badge/Jenkins-d24939?style=flat-square&logo=Jenkins&logoColor=white) ![REDIS](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=Redis&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white) ![SWAGGER](https://img.shields.io/badge/Swagger-85ea2d?style=flat-square&logo=Swagger&logoColor=black) ![GO](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 
 ## 📬 Contact
-[![GMAIL](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knight7024@gmail.com)](mailto:knight7024@gmail.com)
+[![GMAIL](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:night08241@gmail.com)](mailto:night08241@gmail.com)
+[![NAVER](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:knight7024@naver.com)](mailto:knight7024@naver.com)
