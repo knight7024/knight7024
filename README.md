@@ -7,7 +7,7 @@
 * 카카오 입사 (2022.12 ~ )
 
 ## 🗨 Blog
-- [네이버](https://blog.naver.com/knight7024)
+- [네이버 (구)](https://blog.naver.com/knight7024)
 - [티스토리](https://knight7024.tistory.com)
 
 ## 💻 Activities
